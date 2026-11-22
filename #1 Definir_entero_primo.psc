@@ -1,4 +1,4 @@
-Algoritmo Definir_entero_primo
+Algoritmo Definir_entero_primo_cambio_nombre
 	Definir numero_entero, divisor Como Entero
 	Definir Primo Como Logico
 	

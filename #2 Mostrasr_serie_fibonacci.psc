@@ -1,4 +1,4 @@
-Algoritmo Mostras_serie_fibonacci
+Algoritmo Mostrar_serie_fibonacci
 	Definir Serie, Numero1, Numero2, contador como real
 	
 	

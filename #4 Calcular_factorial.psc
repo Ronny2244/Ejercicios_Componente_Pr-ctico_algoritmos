@@ -9,5 +9,5 @@ Algoritmo Calcular_factorial
 		factorial <- factorial * contador 
 		contador <- contador + 1
 	FinMientras
-	Escribir "El factorial de 5 es: ", factorial
+	Escribir "El factorial del número ingresado es: ", factorial
 FinAlgoritmo
